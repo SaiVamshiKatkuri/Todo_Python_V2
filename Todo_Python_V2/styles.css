@@ -1,0 +1,41 @@
+input[type=checkbox]:checked +h4{
+    text-decoration: line-through;
+  }
+.sub{
+  margin:auto;margin-top:20px;margin-bottom:10px;text-align:center;margin-right:750px;font-size:20px;
+  }
+
+h4{
+
+  display:inline-block;color:#000839
+  }
+  .del{
+    margin-left: 20px;
+    color:grey;
+    background-color:#162447;
+    border:1px solid grey;
+    border-radius: 100%;
+  }
+
+  #header{
+    text-align: center;margin-right:100px;margin-left: 100px;margin-top: 10px;background-image:linear-gradient(65deg,#fbc687, #e7dfd5, #faeee7);padding:20px;
+  }
+  h1{
+    letter-spacing: 4px;font-family: 'Metal Mania', cursive;font-size: 50px;
+  }
+ #date{
+  width:300px;margin-left: 300px;position: relative;;text-align: center;background:linear-gradient(to right,#faeee7,#fce8d5);margin-top: 30px;border:1px solid #fce8d5;border-radius: 10px;
+ }
+ #myimg{
+  width:170px;height: 160px;border:4px solid white;border-radius:100%;
+  margin-left: 630px;
+  margin-top: 30px;
+ }
+
+ #add_todo,#new_todo{
+  margin-left:400px;width:120px;height:30px;border-radius:20px;border:2px solid grey;background-color:#fbc687;box-shadow:0px 2px 5px rgba(0,0,0,0.5);
+ }
+ #home{
+  background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+ background-color: gray;
+}
